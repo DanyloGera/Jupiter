@@ -1,0 +1,95 @@
+body {
+ background-image: url(https://ykl-res.azureedge.net/5c7089ce-eebe-4633-885f-a8066fc5590d/Юпитер-w400.jpg);
+ margin: 0;
+ padding: 0;
+
+}
+header {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.name1 {
+
+  background-color: #f5f2eb;
+  border-radius: 20px;
+  text-align: center;
+  width: 500px;
+}
+
+.div1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text1{
+  font-style: italic;
+  font-size: 18pt;
+  border: white solid;
+  padding: 20px;
+  margin: 20px;
+  background-color: #ede0ca;
+  border-radius: 20px;
+  height: 300px;
+    width: 50%
+}
+.text2 {
+ font-style: italic;
+ font-size: 18pt;
+ border: white solid;
+    padding: 20px;
+  margin: 20px;
+  background-color: #ede0ca;
+  border-radius: 20px;
+  height: 300px;
+  width: 50%
+}
+.div2 {
+  display: flex;
+  justify-content: center;
+}
+.facts {
+  background-color: #f5f2eb;
+  border-radius: 30px;
+  text-align: center;
+  width: 460px;
+font-family: 6pt fantasy;
+}
+.fax {
+  text-decoration: underline;
+  color: #302204;
+  font-style: oblique;
+  font-size: 16pt;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.end {
+  color: #fff;
+  border: #fff dashed;
+  text-align: center;
+  margin-top: 35px;
+}
+.punckts{
+  display: flex;
+  justify-content: center;
+}
+.punct {
+  font-family: fantasy;
+  font-size: 16pt;
+  border: white solid;
+     padding: 20px;
+   margin: 20px;
+   background-color: #ede0ca;
+   border-radius: 20px;
+   height: 100px;
+   width: 820px;
+   text-align: left;
+}
+.nombers {
+  list-style-type: decimal;
+}
